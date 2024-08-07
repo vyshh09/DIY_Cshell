@@ -1,0 +1,15 @@
+neonate -n 1
+neonate -n 3
+neonate -n 2
+neonate -n 1
+neonate -n 2
+neonate -n 1
+echo 4
+warp test
+iMan echo
+Iman sleep
+iMan sleep
+iMan echo
+iMan cd
+sleep 5 & echo lorem ipsum
+warp test ; pwd
